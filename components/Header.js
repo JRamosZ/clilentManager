@@ -78,6 +78,9 @@ const styles = StyleSheet.create({
 
   menuHam: {
     backgroundColor: "white",
+    borderWidth: 1,
+    borderTopWidth: 0,
+    borderColor: COLORS.bgSecond,
     marginHorizontal: 30,
     marginTop: 90,
     position: "absolute",
